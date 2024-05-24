@@ -1,6 +1,8 @@
+import styles from './Tod.module.css';
+
 function Tod()
 {
-  return <h1>TODO App</h1>
+  return <h1 className={styles.heading}>TODO App</h1>;
 }
 
 export default Tod;

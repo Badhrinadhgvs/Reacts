@@ -1,9 +1,4 @@
-h1{
-  font-weight: 700;
-  font-size: 45px;
-  margin: 10px;
-  margin-bottom: 20px;
-}
+
 input{
   width: 100%;
   
@@ -30,11 +25,7 @@ body{
   margin-bottom: 5px;
   width: 100px;
 }
-.btn-add-a{
-  margin:5px;
-  margin-top: -5px;
-  width: 93px;
-}
+
 .btn-del-a{
   margin:5px;
   width: 93px;
